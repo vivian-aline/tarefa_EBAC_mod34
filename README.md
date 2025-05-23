@@ -29,3 +29,19 @@ Encontrar uma problemática da vida real que possa ser solucionada através de a
 - Gráficos e dashboards que resumam os resultados da análise.
 - Interpretação das visualizações para comunicar os principais achados
 - Sugestões de ações ou soluções baseadas nos resultados obtidos.
+
+## Entrega do Projeto
+- Documentação do projeto em PDF (dissertação sobre o problema, justificativa do uso de dados, relatório com a fonte de dados usados e relatório de insights baseados na análise exploratória).
+- Notebooks com a análise exploratória de dados.
+- arquivos CSV usados.
+- Dashboard no looker Studio
+
+### Fonte de dados: IBGE
+Os dados utilizados neste projeto foram obtidos no site do **Instituto Brasileiro de Geografia e Estatística (IBGE)**. Você pode acessá-los pelo link abaixo:
+
+🔗 [Acesse os dados do IBGE](https://www.ibge.gov.br/)
+
+### Relatório de Dados no Looker Studio
+Este projeto utiliza visualizações interativas no **Looker Studio**. Acesse o painel pelo link abaixo:
+
+🔗 [Acesse o dashboard do Looker Studio](https://lookerstudio.google.com/reporting/0413c8a2-9c37-4620-b5a1-fe45e82776a9)
